@@ -65,7 +65,7 @@ The trained model and data preprocessor are saved in the models directory. Some 
 
 ## Blog Post
 
-A blog post explaining the analysis and modeling process will be published on Medium.
+A blog post explaining the analysis and modeling process is published on [Medium]([https://](https://medium.com/@t.lucas_2982/salaries-in-the-tech-industry-what-influences-your-income-4209ba01739c)).
 
 ## License
 
